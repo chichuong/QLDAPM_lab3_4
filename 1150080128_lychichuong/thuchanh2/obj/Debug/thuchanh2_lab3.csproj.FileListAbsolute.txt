@@ -1,0 +1,9 @@
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab2\1150080128_lychichuong\thuchanh2\bin\Debug\thuchanh2.exe.config
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab2\1150080128_lychichuong\thuchanh2\bin\Debug\thuchanh2.exe
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab2\1150080128_lychichuong\thuchanh2\bin\Debug\thuchanh2.pdb
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab2\1150080128_lychichuong\thuchanh2\obj\Debug\thuchanh2_lab3.csproj.AssemblyReference.cache
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab2\1150080128_lychichuong\thuchanh2\obj\Debug\thuchanh2.Properties.Resources.resources
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab2\1150080128_lychichuong\thuchanh2\obj\Debug\thuchanh2_lab3.csproj.GenerateResource.cache
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab2\1150080128_lychichuong\thuchanh2\obj\Debug\thuchanh2_lab3.csproj.CoreCompileInputs.cache
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab2\1150080128_lychichuong\thuchanh2\obj\Debug\thuchanh2.exe
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab2\1150080128_lychichuong\thuchanh2\obj\Debug\thuchanh2.pdb

@@ -1,0 +1,12 @@
+﻿===== PHIẾU ORDER =====
+Bàn: Bàn 1
+Thời gian: 06/10/2025 13:04:49
+-----------------------
+Cơm chiên trứng x 8
+Ốc rang muối x 9
+Mỳ xào hải sản x 1
+Cá viên chiên x 1
+Khoai tây chiên x 1
+Bánh mì ốp la x 1
+-----------------------
+Tổng số phần: 21

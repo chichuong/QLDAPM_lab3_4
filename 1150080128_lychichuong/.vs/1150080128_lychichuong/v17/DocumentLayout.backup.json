@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\hoc\\hocthayhuynh\\Phuongphapphattrienphanmen\\cshard\\lab2\\1150080128_lychichuong\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A99E6D7-C0E7-4F59-AB40-142211AC95F7}|lab4_TH2\\lab4_TH2.csproj|d:\\hoc\\hocthayhuynh\\phuongphapphattrienphanmen\\cshard\\lab2\\1150080128_lychichuong\\lab4_th2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A99E6D7-C0E7-4F59-AB40-142211AC95F7}|lab4_TH2\\lab4_TH2.csproj|solutionrelative:lab4_th2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A99E6D7-C0E7-4F59-AB40-142211AC95F7}|lab4_TH2\\lab4_TH2.csproj|d:\\hoc\\hocthayhuynh\\phuongphapphattrienphanmen\\cshard\\lab2\\1150080128_lychichuong\\lab4_th2\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A99E6D7-C0E7-4F59-AB40-142211AC95F7}|lab4_TH2\\lab4_TH2.csproj|solutionrelative:lab4_th2\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A99E6D7-C0E7-4F59-AB40-142211AC95F7}|lab4_TH2\\lab4_TH2.csproj|d:\\hoc\\hocthayhuynh\\phuongphapphattrienphanmen\\cshard\\lab2\\1150080128_lychichuong\\lab4_th2\\ucscalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A99E6D7-C0E7-4F59-AB40-142211AC95F7}|lab4_TH2\\lab4_TH2.csproj|solutionrelative:lab4_th2\\ucscalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A99E6D7-C0E7-4F59-AB40-142211AC95F7}|lab4_TH2\\lab4_TH2.csproj|d:\\hoc\\hocthayhuynh\\phuongphapphattrienphanmen\\cshard\\lab2\\1150080128_lychichuong\\lab4_th2\\ucparam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A99E6D7-C0E7-4F59-AB40-142211AC95F7}|lab4_TH2\\lab4_TH2.csproj|solutionrelative:lab4_th2\\ucparam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A99E6D7-C0E7-4F59-AB40-142211AC95F7}|lab4_TH2\\lab4_TH2.csproj|d:\\hoc\\hocthayhuynh\\phuongphapphattrienphanmen\\cshard\\lab2\\1150080128_lychichuong\\lab4_th2\\uconerow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A99E6D7-C0E7-4F59-AB40-142211AC95F7}|lab4_TH2\\lab4_TH2.csproj|solutionrelative:lab4_th2\\uconerow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A99E6D7-C0E7-4F59-AB40-142211AC95F7}|lab4_TH2\\lab4_TH2.csproj|d:\\hoc\\hocthayhuynh\\phuongphapphattrienphanmen\\cshard\\lab2\\1150080128_lychichuong\\lab4_th2\\ucmany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A99E6D7-C0E7-4F59-AB40-142211AC95F7}|lab4_TH2\\lab4_TH2.csproj|solutionrelative:lab4_th2\\ucmany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A99E6D7-C0E7-4F59-AB40-142211AC95F7}|lab4_TH2\\lab4_TH2.csproj|d:\\hoc\\hocthayhuynh\\phuongphapphattrienphanmen\\cshard\\lab2\\1150080128_lychichuong\\lab4_th2\\ucapply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A99E6D7-C0E7-4F59-AB40-142211AC95F7}|lab4_TH2\\lab4_TH2.csproj|solutionrelative:lab4_th2\\ucapply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A99E6D7-C0E7-4F59-AB40-142211AC95F7}|lab4_TH2\\lab4_TH2.csproj|d:\\hoc\\hocthayhuynh\\phuongphapphattrienphanmen\\cshard\\lab2\\1150080128_lychichuong\\lab4_th2\\ucapply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A99E6D7-C0E7-4F59-AB40-142211AC95F7}|lab4_TH2\\lab4_TH2.csproj|solutionrelative:lab4_th2\\ucapply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A99E6D7-C0E7-4F59-AB40-142211AC95F7}|lab4_TH2\\lab4_TH2.csproj|d:\\hoc\\hocthayhuynh\\phuongphapphattrienphanmen\\cshard\\lab2\\1150080128_lychichuong\\lab4_th2\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A99E6D7-C0E7-4F59-AB40-142211AC95F7}|lab4_TH2\\lab4_TH2.csproj|solutionrelative:lab4_th2\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A99E6D7-C0E7-4F59-AB40-142211AC95F7}|lab4_TH2\\lab4_TH2.csproj|d:\\hoc\\hocthayhuynh\\phuongphapphattrienphanmen\\cshard\\lab2\\1150080128_lychichuong\\lab4_th2\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A99E6D7-C0E7-4F59-AB40-142211AC95F7}|lab4_TH2\\lab4_TH2.csproj|solutionrelative:lab4_th2\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UCApply.cs [Design]",
+              "DocumentMoniker": "D:\\hoc\\hocthayhuynh\\Phuongphapphattrienphanmen\\cshard\\lab2\\1150080128_lychichuong\\lab4_TH2\\UCApply.cs",
+              "RelativeDocumentMoniker": "lab4_TH2\\UCApply.cs",
+              "ToolTip": "D:\\hoc\\hocthayhuynh\\Phuongphapphattrienphanmen\\cshard\\lab2\\1150080128_lychichuong\\lab4_TH2\\UCApply.cs [Design]",
+              "RelativeToolTip": "lab4_TH2\\UCApply.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T07:24:12.057Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "D:\\hoc\\hocthayhuynh\\Phuongphapphattrienphanmen\\cshard\\lab2\\1150080128_lychichuong\\lab4_TH2\\FormMain.cs",
+              "RelativeDocumentMoniker": "lab4_TH2\\FormMain.cs",
+              "ToolTip": "D:\\hoc\\hocthayhuynh\\Phuongphapphattrienphanmen\\cshard\\lab2\\1150080128_lychichuong\\lab4_TH2\\FormMain.cs [Design]",
+              "RelativeToolTip": "lab4_TH2\\FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T07:23:46.873Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UCApply.cs",
+              "DocumentMoniker": "D:\\hoc\\hocthayhuynh\\Phuongphapphattrienphanmen\\cshard\\lab2\\1150080128_lychichuong\\lab4_TH2\\UCApply.cs",
+              "RelativeDocumentMoniker": "lab4_TH2\\UCApply.cs",
+              "ToolTip": "D:\\hoc\\hocthayhuynh\\Phuongphapphattrienphanmen\\cshard\\lab2\\1150080128_lychichuong\\lab4_TH2\\UCApply.cs",
+              "RelativeToolTip": "lab4_TH2\\UCApply.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T07:23:21.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UCParam.cs",
+              "DocumentMoniker": "D:\\hoc\\hocthayhuynh\\Phuongphapphattrienphanmen\\cshard\\lab2\\1150080128_lychichuong\\lab4_TH2\\UCParam.cs",
+              "RelativeDocumentMoniker": "lab4_TH2\\UCParam.cs",
+              "ToolTip": "D:\\hoc\\hocthayhuynh\\Phuongphapphattrienphanmen\\cshard\\lab2\\1150080128_lychichuong\\lab4_TH2\\UCParam.cs",
+              "RelativeToolTip": "lab4_TH2\\UCParam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T07:23:04.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UCMany.cs",
+              "DocumentMoniker": "D:\\hoc\\hocthayhuynh\\Phuongphapphattrienphanmen\\cshard\\lab2\\1150080128_lychichuong\\lab4_TH2\\UCMany.cs",
+              "RelativeDocumentMoniker": "lab4_TH2\\UCMany.cs",
+              "ToolTip": "D:\\hoc\\hocthayhuynh\\Phuongphapphattrienphanmen\\cshard\\lab2\\1150080128_lychichuong\\lab4_TH2\\UCMany.cs",
+              "RelativeToolTip": "lab4_TH2\\UCMany.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T07:22:48.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UCOneRow.cs",
+              "DocumentMoniker": "D:\\hoc\\hocthayhuynh\\Phuongphapphattrienphanmen\\cshard\\lab2\\1150080128_lychichuong\\lab4_TH2\\UCOneRow.cs",
+              "RelativeDocumentMoniker": "lab4_TH2\\UCOneRow.cs",
+              "ToolTip": "D:\\hoc\\hocthayhuynh\\Phuongphapphattrienphanmen\\cshard\\lab2\\1150080128_lychichuong\\lab4_TH2\\UCOneRow.cs",
+              "RelativeToolTip": "lab4_TH2\\UCOneRow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T07:22:18.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UCScalar.cs",
+              "DocumentMoniker": "D:\\hoc\\hocthayhuynh\\Phuongphapphattrienphanmen\\cshard\\lab2\\1150080128_lychichuong\\lab4_TH2\\UCScalar.cs",
+              "RelativeDocumentMoniker": "lab4_TH2\\UCScalar.cs",
+              "ToolTip": "D:\\hoc\\hocthayhuynh\\Phuongphapphattrienphanmen\\cshard\\lab2\\1150080128_lychichuong\\lab4_TH2\\UCScalar.cs",
+              "RelativeToolTip": "lab4_TH2\\UCScalar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T07:21:59.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "D:\\hoc\\hocthayhuynh\\Phuongphapphattrienphanmen\\cshard\\lab2\\1150080128_lychichuong\\lab4_TH2\\FormMain.cs",
+              "RelativeDocumentMoniker": "lab4_TH2\\FormMain.cs",
+              "ToolTip": "D:\\hoc\\hocthayhuynh\\Phuongphapphattrienphanmen\\cshard\\lab2\\1150080128_lychichuong\\lab4_TH2\\FormMain.cs",
+              "RelativeToolTip": "lab4_TH2\\FormMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T07:21:40.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\hoc\\hocthayhuynh\\Phuongphapphattrienphanmen\\cshard\\lab2\\1150080128_lychichuong\\lab4_TH2\\Program.cs",
+              "RelativeDocumentMoniker": "lab4_TH2\\Program.cs",
+              "ToolTip": "D:\\hoc\\hocthayhuynh\\Phuongphapphattrienphanmen\\cshard\\lab2\\1150080128_lychichuong\\lab4_TH2\\Program.cs*",
+              "RelativeToolTip": "lab4_TH2\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T07:20:30.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Db.cs",
+              "DocumentMoniker": "D:\\hoc\\hocthayhuynh\\Phuongphapphattrienphanmen\\cshard\\lab2\\1150080128_lychichuong\\lab4_TH2\\Db.cs",
+              "RelativeDocumentMoniker": "lab4_TH2\\Db.cs",
+              "ToolTip": "D:\\hoc\\hocthayhuynh\\Phuongphapphattrienphanmen\\cshard\\lab2\\1150080128_lychichuong\\lab4_TH2\\Db.cs",
+              "RelativeToolTip": "lab4_TH2\\Db.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T07:20:53.047Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
