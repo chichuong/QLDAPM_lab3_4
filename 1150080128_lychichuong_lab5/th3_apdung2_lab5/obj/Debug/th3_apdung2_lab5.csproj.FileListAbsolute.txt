@@ -1,0 +1,12 @@
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab2\1150080128_lychichuong_lab5\th3_apdung2_lab5\bin\Debug\th3_ad2_lab5_db.mdf
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab2\1150080128_lychichuong_lab5\th3_apdung2_lab5\bin\Debug\th3_ad2_lab5_db_log.ldf
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab2\1150080128_lychichuong_lab5\th3_apdung2_lab5\bin\Debug\th3_apdung2_lab5.exe.config
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab2\1150080128_lychichuong_lab5\th3_apdung2_lab5\bin\Debug\th3_apdung2_lab5.exe
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab2\1150080128_lychichuong_lab5\th3_apdung2_lab5\bin\Debug\th3_apdung2_lab5.pdb
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab2\1150080128_lychichuong_lab5\th3_apdung2_lab5\obj\Debug\th3_apdung2_lab5.csproj.AssemblyReference.cache
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab2\1150080128_lychichuong_lab5\th3_apdung2_lab5\obj\Debug\th3_apdung2_lab5.Properties.Resources.resources
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab2\1150080128_lychichuong_lab5\th3_apdung2_lab5\obj\Debug\th3_apdung2_lab5.csproj.GenerateResource.cache
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab2\1150080128_lychichuong_lab5\th3_apdung2_lab5\obj\Debug\th3_apdung2_lab5.csproj.CoreCompileInputs.cache
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab2\1150080128_lychichuong_lab5\th3_apdung2_lab5\obj\Debug\th3_apdung2_lab5.exe
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab2\1150080128_lychichuong_lab5\th3_apdung2_lab5\obj\Debug\th3_apdung2_lab5.pdb
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab2\1150080128_lychichuong_lab5\th3_apdung2_lab5\obj\Debug\th3_apdung2_lab5.exe.config

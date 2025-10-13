@@ -1,0 +1,11 @@
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab2\1150080128_lychichuong_lab5\th4_ad3\bin\Debug\th4_ad3_db.mdf
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab2\1150080128_lychichuong_lab5\th4_ad3\bin\Debug\th4_ad3_db_log.ldf
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab2\1150080128_lychichuong_lab5\th4_ad3\bin\Debug\th4_ad3.exe.config
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab2\1150080128_lychichuong_lab5\th4_ad3\bin\Debug\th4_ad3.exe
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab2\1150080128_lychichuong_lab5\th4_ad3\bin\Debug\th4_ad3.pdb
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab2\1150080128_lychichuong_lab5\th4_ad3\obj\Debug\th4_ad3.csproj.AssemblyReference.cache
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab2\1150080128_lychichuong_lab5\th4_ad3\obj\Debug\th4_ad3.Properties.Resources.resources
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab2\1150080128_lychichuong_lab5\th4_ad3\obj\Debug\th4_ad3.csproj.GenerateResource.cache
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab2\1150080128_lychichuong_lab5\th4_ad3\obj\Debug\th4_ad3.csproj.CoreCompileInputs.cache
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab2\1150080128_lychichuong_lab5\th4_ad3\obj\Debug\th4_ad3.exe
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab2\1150080128_lychichuong_lab5\th4_ad3\obj\Debug\th4_ad3.pdb
